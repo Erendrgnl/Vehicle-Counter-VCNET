@@ -21,6 +21,8 @@ run below command, follow instructions and save roi's as a json file
 ```bash
 python3 roiSelector.py --video M30-HD.avi --name M30-HD
 ```
+![Roi selection](https://user-images.githubusercontent.com/37477289/142638864-771230d3-91e6-403c-a89f-53fa1f81d6e8.png)
+
 output json will generated named as M30-HD.json
 
 ## Video inferance
@@ -28,4 +30,5 @@ run below command for inferance
 
 ```bash
 python3 main.py --video M30-HD.avi --json M30-HD.json --model model/vehicle_counter.h5
-``
+```
+![VCNET](https://user-images.githubusercontent.com/37477289/142639007-48da10f3-9f16-4a38-beda-f14ef4ef8ef4.png)
