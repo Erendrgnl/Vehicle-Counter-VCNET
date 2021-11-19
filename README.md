@@ -31,4 +31,4 @@ run below command for inferance
 ```bash
 python3 main.py --video M30-HD.avi --json M30-HD.json --model model/vehicle_counter.h5
 ```
-![VCNET](https://user-images.githubusercontent.com/37477289/142639007-48da10f3-9f16-4a38-beda-f14ef4ef8ef4.png)
+![VCNET](https://user-images.githubusercontent.com/37477289/142639212-4cdbb0d2-f134-45ce-8a0f-4873dc5c5cf3.png)
