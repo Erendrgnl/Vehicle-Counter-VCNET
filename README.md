@@ -1,6 +1,13 @@
 # Vehicle-Counter-VCNET
 method proposes a low-cost solution for vehicle counting in highway images. This approach, which considers the problem as a deep learning-based classification problem, classifies the signature differences created by road and vehicle sections
 
+M-30HD highway performance
+[![Watch the video]](https://www.youtube.com/watch?v=sZ_sz6R3ET0)
+
+Izmit highway performance
+[![Watch the video]](https://www.youtube.com/watch?v=mj69vIJ-eDU)
+
+
 # Install
 Use the package manager pip to install requirements
 ```bash
